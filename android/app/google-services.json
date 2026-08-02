@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "851136390775",
+    "project_id": "giftcard-wallet-21003",
+    "storage_bucket": "giftcard-wallet-21003.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851136390775:android:ef5fac74b9698a13ea8872",
+        "android_client_info": {
+          "package_name": "com.example.giftcard_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851136390775-d52so8p3kf762bforl4erfp8ik5ev9dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.giftcard_wallet",
+            "certificate_hash": "b4e5f492e54de7861336f896e1f857d8322ccace"
+          }
+        },
+        {
+          "client_id": "851136390775-6gtsaop30nbtj16i4kqs6k7kj7jqoq76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwUqfnv4znPU5asERjc8NPnH20mjeitGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851136390775-6gtsaop30nbtj16i4kqs6k7kj7jqoq76.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "851136390775-qtl7n3q90bd0ijt3hsk9n3n9e7fgiaho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.giftcardWallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
